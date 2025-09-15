@@ -3,3 +3,5 @@ A simple 2048 game with HTML, CSS, and JavaScript, and a dark theme and differen
 
 
 The game logic was built in JavaScript, and the layout in simple HTML/CSS.
+
+Stay tuned for sliding animations.
